@@ -1,11 +1,3 @@
+Welcome to my humble blog.
 
-# stantronic.github.io
-
-## Stanton's blog
-
-
-{% for post in site.posts %}
-- [{{post.title}}]({{post.url}})
-  
-{% endfor %}
-
+[View posts](./blog.html)
